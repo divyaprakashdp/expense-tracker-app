@@ -14,6 +14,11 @@ const initialState = {
 //CReate context
 export const GlobalContext = createContext(initialState)
 
+//Delete Action
+function deleteTransaction(id){
+    //to be continued...
+}
+
 //Provider Component
 export const GlobalProvider = ({children}) =>{
         const [state, dispatch] = useReducer(AppReducer, initialState);
