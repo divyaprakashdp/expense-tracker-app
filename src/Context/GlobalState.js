@@ -16,7 +16,7 @@ export const GlobalContext = createContext(initialState)
 
 //Delete Action
 function deleteTransaction(id){
-    //to be continued...
+    //to be continued... test
 }
 
 //Provider Component
