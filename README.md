@@ -4,17 +4,31 @@ A modified version of expense tracker app from Brad Traversy tutorial https://ww
 Keep track of income and expenses. Add and remove items and save to local storage
 
 ## Initial Project Specifications
- - Create UI for project
- - Display transaction items in DOM
- - Show balance, expense and income totals
- - Add new transation and reflect in total
- - Delete items from DOM
- - Persist to local storage
+ - [x] Create UI for project
+ - [x] Display transaction items in DOM
+ - [x] Show balance, expense and income totals
+ - [x] Add new transation and reflect in total
+ - [x] Delete items from DOM
+ - [x] Persist to local storage
+
+## Defects
+ - [ ] Non-empty and zero valued transactions are allowed
+ - [ ] Add Transaction form doesn't reset
+ - [ ] Transasctions are reset on refresh
 
 ## New Features to be added:
- - Add image for expenses
- - Analytics
- - etc.
+ - [ ] Date of the transaction
+ - [ ] Update transaction
+ - [ ] Database
+ - [ ] Sort and Filter
+ - [ ] Search a transaction
+ - [ ] Add image for expenses
+ - [ ]  Profile/Login
+ - [ ] Analytics
+   - analysis of money in versus money out
+   - Expense Analysis Chart (detailed breakdown of the user’s expenses by category)
+   - How good is your budget
+ - [ ] Style Update
 
 ## Screenshot of project
 
